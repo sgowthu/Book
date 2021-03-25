@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="6" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-25T13:05:57 IST" name="Suite" finished-at="2021-03-25T13:08:27 IST" duration-ms="150560">
+    <groups>
+    </groups>
+    <test started-at="2021-03-25T13:05:57 IST" name="exicuteTestCases" finished-at="2021-03-25T13:08:27 IST" duration-ms="150560">
+      <class name="testClasses.GetHomeItems">
+        <test-method signature="getHomeListItems_one()[pri:0, instance:testClasses.GetHomeItems@3b6ddd1d]" started-at="2021-03-25T13:06:44 IST" name="getHomeListItems_one" finished-at="2021-03-25T13:07:06 IST" duration-ms="22101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHomeListItems_one -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testClasses.GetHomeItems@3b6ddd1d]" started-at="2021-03-25T13:07:06 IST" name="afterTest" finished-at="2021-03-25T13:07:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:testClasses.GetHomeItems@3b6ddd1d]" started-at="2021-03-25T13:08:27 IST" name="endReport" finished-at="2021-03-25T13:08:27 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- testClasses.GetHomeItems -->
+      <class name="testClasses.GetBookshelves">
+        <test-method signature="testOneForBookshelves()[pri:0, instance:testClasses.GetBookshelves@6283d8b8]" started-at="2021-03-25T13:05:57 IST" name="testOneForBookshelves" finished-at="2021-03-25T13:06:44 IST" duration-ms="46771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOneForBookshelves -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testClasses.GetBookshelves@6283d8b8]" started-at="2021-03-25T13:06:44 IST" name="afterTest" finished-at="2021-03-25T13:06:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:testClasses.GetBookshelves@6283d8b8]" started-at="2021-03-25T13:08:27 IST" name="endReport" finished-at="2021-03-25T13:08:27 IST" duration-ms="560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- testClasses.GetBookshelves -->
+      <class name="testClasses.GetStudyChair">
+        <test-method signature="testForStudyChairs()[pri:0, instance:testClasses.GetStudyChair@3f6b0be5]" started-at="2021-03-25T13:07:06 IST" name="testForStudyChairs" finished-at="2021-03-25T13:07:38 IST" duration-ms="32363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForStudyChairs -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testClasses.GetStudyChair@3f6b0be5]" started-at="2021-03-25T13:07:38 IST" name="afterTest" finished-at="2021-03-25T13:07:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testClasses.GetStudyChair -->
+      <class name="testClasses.GiftCard">
+        <test-method signature="testForGiftCards()[pri:0, instance:testClasses.GiftCard@611889f4]" started-at="2021-03-25T13:07:38 IST" name="testForGiftCards" finished-at="2021-03-25T13:08:27 IST" duration-ms="48667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForGiftCards -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testClasses.GiftCard@611889f4]" started-at="2021-03-25T13:08:27 IST" name="afterTest" finished-at="2021-03-25T13:08:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testClasses.GiftCard -->
+    </test> <!-- exicuteTestCases -->
+  </suite> <!-- Suite -->
+</testng-results>
